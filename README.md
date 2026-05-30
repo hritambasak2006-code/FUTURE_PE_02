@@ -6,12 +6,37 @@ This project demonstrates prompt engineering techniques for creating UGC-style m
 ## Business
 Brew Haven Cafe
 
+## Objective
+Generate engaging marketing content using AI, including hooks, UGC ad scripts, captions, and CTAs.
+
 ## Tools Used
 - ChatGPT
 - GitHub
 
 ## Deliverables
+- UGC Hooks
 - UGC Ad Scripts
-- Marketing Hooks
-- Social Media Captions
-- CTA Variations
+- Instagram Captions
+- Prompt Engineering Workflow
+
+## Files Included
+- hooks.md
+- ugc_scripts.md
+- captions.md
+- prompts.md
+
+## Skills Demonstrated
+- Prompt Engineering
+- Content Marketing
+- UGC Advertising
+- Social Media Copywriting
+- AI-Assisted Content Creation
+
+## Learning Outcomes
+- Learned how prompt specificity affects output quality.
+- Created multiple marketing assets from structured prompts.
+- Improved content through prompt refinement.
+- Applied AI to real-world marketing scenarios.
+
+## Educational Note
+Created as part of the Future Interns Prompt Engineering Internship.
