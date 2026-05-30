@@ -40,3 +40,18 @@ Generate engaging marketing content using AI, including hooks, UGC ad scripts, c
 
 ## Educational Note
 Created as part of the Future Interns Prompt Engineering Internship.
+
+## Marketing Assets Created
+
+- 10 UGC Hooks
+- 3 UGC Advertisement Scripts
+- 5 Instagram Captions
+- Prompt Engineering Workflow Documentation
+- CTA Collection
+
+## Target Audience
+
+- Students
+- Remote Workers
+- Coffee Lovers
+- Young Professionals
